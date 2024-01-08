@@ -1,13 +1,16 @@
 #include <omp.h>
+#include <string.h>
 
 void copy (int w, int h, unsigned char *src, unsigned char *dest)
 {
-	int i,j;
-  	for (j = 0; j < h; j++) {
-		for (i = 0; i < w; i++) {
-			dest[j * w + i] = src[j * w + i];
-		}
-	}
+	memcpy(dest, src, w * h); // est ce de la triche?
+	// int i,j;
+  	// for (j = 0; j < h; j++) {
+
+	// 	for (i = 0; i < w; i++) {
+	// 		dest[j * w + i] = src[j * w + i];
+	// 	}
+	// }
 }
 
 void light(int w, int h, unsigned char *img, unsigned char val)
