@@ -15,28 +15,29 @@ void copy (int w, int h, unsigned char *src, unsigned char *dest)
 
 void light(int w, int h, unsigned char *img, unsigned char val)
 {
-	int i,j;
-	unsigned char current;
+	int i;
+	int size = w * h;
 
-	for (j = 0; j < h; j++) {
-		#pragma omp parallel for private(current)
-		for (i = 0; i < w; i++) {
-			current = img[j * w + i];
-			img[j * w + i] = (((int) current + val) > 255) ? 255 : current + val;
-		}
+	#pragma omp parallel for
+	for (i = 0; i < size; i++) {
+		int value = img[i] + val;
+		img[i] = (value > 255) ? 255 : value;
 	}
+	
 }
 
 void curve(int w, int h, unsigned char *img, unsigned char *lut)
 {
 	int i,j;
   	unsigned char current;
-  	for (j = 0; j < h; j++) {
-  		for (i = 0; i < w; i++) {
-  			current = img[j * w + i];
-			img[j * w + i] = lut[current];
-  		}
-  	}
+	int size = w * h;
+
+  	
+	#pragma omp parallel for
+	for (i = 0; i < size; i++) {
+		current = img[i];
+		img[i] = lut[current];
+	}
 }
 
 void transfo(int w, int h, unsigned char *src, unsigned char *dest, unsigned char *lut, unsigned char val)
