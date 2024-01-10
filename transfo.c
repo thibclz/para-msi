@@ -3,14 +3,7 @@
 
 void copy (int w, int h, unsigned char *src, unsigned char *dest)
 {
-	memcpy(dest, src, w * h); // est ce de la triche?
-	// int i,j;
-  	// for (j = 0; j < h; j++) {
-
-	// 	for (i = 0; i < w; i++) {
-	// 		dest[j * w + i] = src[j * w + i];
-	// 	}
-	// }
+	memcpy(dest, src, w * h);
 }
 
 void light(int w, int h, unsigned char *img, unsigned char val)
@@ -28,14 +21,12 @@ void light(int w, int h, unsigned char *img, unsigned char val)
 
 void curve(int w, int h, unsigned char *img, unsigned char *lut)
 {
-	int i,j;
-  	unsigned char current;
+	int i;
 	int size = w * h;
 
-  	
 	#pragma omp parallel for
 	for (i = 0; i < size; i++) {
-		current = img[i];
+		unsigned char current = img[i];
 		img[i] = lut[current];
 	}
 }

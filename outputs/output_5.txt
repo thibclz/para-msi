@@ -1,0 +1,124 @@
+image1.pgm courbe1.amp 5 image1_t.pgm
+image1.pgm: 5617 x 3684 = 20693028 pixels
+373398236.000000 clock cycles.
+image2.pgm courbe2.amp 5 image2_t.pgm
+image2.pgm: 5227 x 3515 = 18372905 pixels
+334742947.000000 clock cycles.
+image3.pgm courbe3.amp 5 image3_t.pgm
+image3.pgm: 6660 x 9185 = 61172100 pixels
+1226283809.000000 clock cycles.
+image4.pgm courbe4.amp 4 image4_t.pgm
+image4.pgm: 3381 x 4914 = 16614234 pixels
+299541829.000000 clock cycles.
+image5.pgm courbe5.amp 7 image5_t.pgm
+image5.pgm: 3226 x 3255 = 10500630 pixels
+199787111.000000 clock cycles.
+image6.pgm courbe6.amp 6 image6_t.pgm
+image6.pgm: 3677 x 3677 = 13520329 pixels
+230482389.000000 clock cycles.
+image7.pgm courbe7.amp 9 image7_t.pgm
+image7.pgm: 3264 x 4896 = 15980544 pixels
+249494173.000000 clock cycles.
+image8.pgm courbe8.amp 5 image8_t.pgm
+image8.pgm: 1757 x 2636 = 4631452 pixels
+72092435.000000 clock cycles.
+image9.pgm courbe9.amp 7 image9_t.pgm
+image9.pgm: 2498 x 3330 = 8318340 pixels
+127886338.000000 clock cycles.
+image10.pgm courbe10.amp 9 image10_t.pgm
+image10.pgm: 3024 x 3024 = 9144576 pixels
+154129996.000000 clock cycles.
+TOTAL: 3267839263.000000 clock cycles.
+image1.pgm courbe1.amp 5 image1_t.pgm
+image1.pgm: 5617 x 3684 = 20693028 pixels
+377564454.000000 clock cycles.
+image2.pgm courbe2.amp 5 image2_t.pgm
+image2.pgm: 5227 x 3515 = 18372905 pixels
+328104259.000000 clock cycles.
+image3.pgm courbe3.amp 5 image3_t.pgm
+image3.pgm: 6660 x 9185 = 61172100 pixels
+1200653109.000000 clock cycles.
+image4.pgm courbe4.amp 4 image4_t.pgm
+image4.pgm: 3381 x 4914 = 16614234 pixels
+302229111.000000 clock cycles.
+image5.pgm courbe5.amp 7 image5_t.pgm
+image5.pgm: 3226 x 3255 = 10500630 pixels
+164538281.000000 clock cycles.
+image6.pgm courbe6.amp 6 image6_t.pgm
+image6.pgm: 3677 x 3677 = 13520329 pixels
+213336528.000000 clock cycles.
+image7.pgm courbe7.amp 9 image7_t.pgm
+image7.pgm: 3264 x 4896 = 15980544 pixels
+248389819.000000 clock cycles.
+image8.pgm courbe8.amp 5 image8_t.pgm
+image8.pgm: 1757 x 2636 = 4631452 pixels
+72848428.000000 clock cycles.
+image9.pgm courbe9.amp 7 image9_t.pgm
+image9.pgm: 2498 x 3330 = 8318340 pixels
+134517556.000000 clock cycles.
+image10.pgm courbe10.amp 9 image10_t.pgm
+image10.pgm: 3024 x 3024 = 9144576 pixels
+173627501.000000 clock cycles.
+TOTAL: 3215809046.000000 clock cycles.
+image1.pgm courbe1.amp 5 image1_t.pgm
+image1.pgm: 5617 x 3684 = 20693028 pixels
+375070340.000000 clock cycles.
+image2.pgm courbe2.amp 5 image2_t.pgm
+image2.pgm: 5227 x 3515 = 18372905 pixels
+322701777.000000 clock cycles.
+image3.pgm courbe3.amp 5 image3_t.pgm
+image3.pgm: 6660 x 9185 = 61172100 pixels
+1081969693.000000 clock cycles.
+image4.pgm courbe4.amp 4 image4_t.pgm
+image4.pgm: 3381 x 4914 = 16614234 pixels
+269047000.000000 clock cycles.
+image5.pgm courbe5.amp 7 image5_t.pgm
+image5.pgm: 3226 x 3255 = 10500630 pixels
+164233086.000000 clock cycles.
+image6.pgm courbe6.amp 6 image6_t.pgm
+image6.pgm: 3677 x 3677 = 13520329 pixels
+215986000.000000 clock cycles.
+image7.pgm courbe7.amp 9 image7_t.pgm
+image7.pgm: 3264 x 4896 = 15980544 pixels
+253014300.000000 clock cycles.
+image8.pgm courbe8.amp 5 image8_t.pgm
+image8.pgm: 1757 x 2636 = 4631452 pixels
+72332044.000000 clock cycles.
+image9.pgm courbe9.amp 7 image9_t.pgm
+image9.pgm: 2498 x 3330 = 8318340 pixels
+138570845.000000 clock cycles.
+image10.pgm courbe10.amp 9 image10_t.pgm
+image10.pgm: 3024 x 3024 = 9144576 pixels
+146111156.000000 clock cycles.
+TOTAL: 3039036241.000000 clock cycles.
+image1.pgm courbe1.amp 5 image1_t.pgm
+image1.pgm: 5617 x 3684 = 20693028 pixels
+237028784.000000 clock cycles.
+image2.pgm courbe2.amp 5 image2_t.pgm
+image2.pgm: 5227 x 3515 = 18372905 pixels
+211320676.000000 clock cycles.
+image3.pgm courbe3.amp 5 image3_t.pgm
+image3.pgm: 6660 x 9185 = 61172100 pixels
+739196775.000000 clock cycles.
+image4.pgm courbe4.amp 4 image4_t.pgm
+image4.pgm: 3381 x 4914 = 16614234 pixels
+190552920.000000 clock cycles.
+image5.pgm courbe5.amp 7 image5_t.pgm
+image5.pgm: 3226 x 3255 = 10500630 pixels
+126422095.000000 clock cycles.
+image6.pgm courbe6.amp 6 image6_t.pgm
+image6.pgm: 3677 x 3677 = 13520329 pixels
+152398402.000000 clock cycles.
+image7.pgm courbe7.amp 9 image7_t.pgm
+image7.pgm: 3264 x 4896 = 15980544 pixels
+178174078.000000 clock cycles.
+image8.pgm courbe8.amp 5 image8_t.pgm
+image8.pgm: 1757 x 2636 = 4631452 pixels
+52623439.000000 clock cycles.
+image9.pgm courbe9.amp 7 image9_t.pgm
+image9.pgm: 2498 x 3330 = 8318340 pixels
+100006316.000000 clock cycles.
+image10.pgm courbe10.amp 9 image10_t.pgm
+image10.pgm: 3024 x 3024 = 9144576 pixels
+115823483.000000 clock cycles.
+TOTAL: 2103546968.000000 clock cycles.
