@@ -10,8 +10,6 @@ Résultats :
 | 5                     | 2152776366            | 6,04                    | parallélisation de curve                                                |
 | 6                     | 1896110610            | 6,85                    | on retire i et j et on remplace avec un seul index i qui va jusque w\*h |
 | 7                     | 1892932140            | 6,87                    | on retire des variables inutiles                                                                   |
-| 8                     | 973927334            | 13,35
-                    | on met toutes les instructions dans la même fonction et on optimise les types
-                                                                  |
+| 8                     | 973927334            | 13,35 | on met toutes les instructions dans la même fonction et on optimise les types |
 
 
